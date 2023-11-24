@@ -1,0 +1,423 @@
+# dou tec english
+## computer
+- [ ] [Popular Internet & Computer Symbols to Improve Your Vocabulary](https://www.youtube.com/watch?v=z_nyDN4RoNQ)
+### dictionary c
+https://www.computerhope.com/jargon/jc.htm
+![](https://i.imgur.com/qUJuOu9.png)
+Chrome
+Ctrl
+Command Key
+Ctrl+Z
+Communication Device
+Clipboard
+C#
+Cable
+Cable TV
+Cache
+Cache Discovery Protocol
+Cache hierarchy
+Cache hit
+Cache memory
+Cache miss
+Cache server
+CAD
+Calculate
+Calendar
+Calibrate
+Calibration
+Call
+Callback
+Callback function
+Call center
+Call-control signaling
+
+Camera
+Camps
+Cancel
+Canvas
+
+### dictionary d
+https://www.computerhope.com/jargon/jd.htm
+Device Driver
+Double Space
+Dollar Sign
+Desktop
+Download
+Data Entry
+Desktop Computer
+Disk Cleanup
+Drop-down Menu
+Data
+Daemon
+Dark Internet
+Dark mode
+Darknet
+Dark web
+Dashboard
+Dashboard camera
+
+DDoS attack
+
+DDR
+DDR2
+DDR3
+DDR4
+D: drive
+
+Deadlock
+
+Deallocate
+Deallocation
+
+Debug
+Debugger
+Debugging
+DebugView
+
+
+Decimal
+Decimal fraction
+Decimal notation
+Decimal number
+Decimal number system
+Decimal point
+Decimal separator
+Decimal system
+
+
+Declaration
+Declarative programming
+
+
+Decode
+Decoder
+Decoding
+Decompiler
+Decompress
+Decompression
+
+
+Decrement
+Decrypt
+Decryption
+
+
+Dedicated circuit
+Dedicated customer service
+Dedicated graphics
+Dedicated graphics card
+Dedicated host
+Dedicated IP
+Dedicated IP address
+Dedicated line
+
+
+Deepfake
+
+Default
+Default application
+Default browser
+Default button
+Default drive
+Default font
+Default gateway
+Default location
+Default margins
+Default page margin
+Default password
+
+Define
+Definition
+
+
+Demo
+
+Dependence
+Dependency
+Dependent variable
+Depmod
+Deprecated
+
+Depth
+
+Derived font
+
+Desktop
+Desktop application
+Desktop background
+
+Disk partition
+Disk partitioning
+Disk partition table
+
+Display card
+Display companies
+Display cycle
+Display device
+
+Disposal
+Dispose
+
+Distributed computing
+
+
+Div
+Divide
+Divide by zero
+Divide key
+Divider
+Division
+
+
+Document
+Document area
+Documentation
+Document file
+
+DOS Mode
+
+Down arrow key
+
+Download file
+
+Draw
+Drawer
+
+
+Dynamic dump
+
+
+Dynamic execution
+Dynamic Host Configuration Protocol
+Dynamic HTML
+Dynamic IP
+Dynamic IP address
+
+## math english 
+![](https://i.imgur.com/kC8lod2.png)
+![](https://i.imgur.com/sX3HWhi.png)
+
+- [ ] [08 - Learn to Solve Fractional Equations in Algebra, Part 1](https://www.youtube.com/watch?v=LMS1NR4gZN8)
+- [ ] [Solving a System of Equations Using Elimination and Multipliers](https://www.youtube.com/watch?v=cz6UmZLWgEw)
+- [ ] [Solving Systems of Equations... Elimination Method](https://www.youtube.com/watch?v=XOJgzW4P7T8)
+- [ ] [youtube search ](https://www.youtube.com/results?search_query=Systems+of+Equations)
+- [ ] [Solving Rational Equations](https://www.youtube.com/watch?v=1fR_9ke5-n8)
+![](https://i.imgur.com/evzFEpY.png)
+- [ ] [How to Solve Differential Equations in PYTHON](https://www.youtube.com/watch?v=MM3cBamj1Ms)
+quadrangle 四边形
+pentagon 五角大楼
+polygon 多边形
+## physics
+sound 
+light
+heat
+force
+electricity
+magnetism
+ velocity
+ acceleration
+ gravity
+ normal force
+- [ ] [Mechanics 物理力学](https://www.youtube.com/watch?v=jbWhb0Vwlf4&list=PLntwKEa1hkuBZe9hG_2dyhwluiQO3HOIm)
+- [ ] [物理世界的地图](https://www.youtube.com/watch?v=ZihywtixUYo)
+- [ ] [Physics in 6 minutes](https://www.youtube.com/watch?v=t215Q1oBoXQ)
+- [ ] [heat](https://www.youtube.com/results?search_query=expand+++heat+++contract+++cold)
+## chemistry
+- [ ] [超简单化学英语基础 ](https://www.youtube.com/watch?v=pcEeNV6UTIU&list=PLZsK5ZGNcf2Kse-dZkZEJntrbwpLRAYB_)
+
+## general
+- [ ] [Elon Musk’s 2 Rules For Learning Anything Faster](https://www.youtube.com/watch?v=xLkC-ODKQSc&t=269s)![](https://i.imgur.com/YFDD42f.png)
+## rule 1 : construct a knowledge map
+![](https://i.imgur.com/9qUcz6Y.png)
+## rule 2: you cannot remember what you cannot relate with.
+![](https://i.imgur.com/xaHpyCR.png)
+```
+connect/associate/relate * with *
+fake it until you make it.
+use is or drop it
+use it and you will own it.
+```
+We need to explain why these issues are important and relate them to everyday life.
+我們需要解釋為什麼這些問題很重要並且和他們的日常生活相關。
+Archaeologists hope to relate the discovery with the arrival of Vikings in the area in the tenth century.
+考古學家希望把這些發現與西元十世紀維京人的到來聯繫起來。
+equations that relate variables of pressure, volume, and temperature
+將壓力、體積與溫度相連的方程式
+
+requires a thorough and time-consuming verification in order to relate the expenditures with the budgets in an accurate manner.
+而且，按目前的预算编制和财务程序，按开支项目进行分析需要进行彻底 的和耗时的核实工作，将各开支与预 算进 行准确地核对。
+The cancer risks associated with smoking have been well documented.
+抽煙有引發癌症的危險，這兩者的關聯是有詳盡的文獻為證的。
+## english
+- [ ] [noun plus y adjective](http://english-zone.com/members/spelling/adj-y01.html)
+- [ ] [Noun as Adjective](https://www.englishclub.com/grammar/nouns-adjective.htm)
+- [ ] [Four Suffixes: -ful, -less, -ly, and -y](https://www.ck12.org/spelling/four-suffixes-ful-less-ly-and-y/lesson/Four-Suffixes:-ful-less-ly-and-y/)
+- [ ] [easy english](https://www.youtube.com/channel/UCTRHegh7UqWuKRymXoqzbzA/playlists)
+- [ ] [Learn English Vocabulary: Computer Hardware](https://www.youtube.com/watch?v=fhQqmdAHs38)
+- [ ] [24个故事串记 3500 词汇奇速英语](https://www.youtube.com/watch?v=26baDt51z_I&list=PLmbmjB9I926Yr_zch7Qwo7vltRyX2g6Eb)
+- [ ] [思维导图记单词 初中版1600 词汇](https://www.youtube.com/watch?v=oHKSPfgghXA&list=PLmbmjB9I926YvSz7FtKsk425B7pNXuuur)
+### synonym antonym
+- [ ] [相反-英语动词](https://www.youtube.com/watch?v=tdODBshNoSI)
+- [ ] [verb+synonyms](https://www.youtube.com/results?search_query=verb+synonyms)
+- [ ] [IELTS Writing SYNONYMS for 33 phrasal VERBS](https://www.youtube.com/watch?v=Qc3kkNlqF4Q)
+- [ ] [词组A Fun Way to Learn 50 English Phrasal Verbs with Examples!]()https://www.youtube.com/watch?v=B0heWo1XGhc
+
+
+### etc
+- [ ] [fit、install、mount、assemble的区别是什么？](https://zhuanlan.zhihu.com/p/144444919)
+- [ ] [区别辨析build、construct、found、erect、establish与set up](https://www.tjxz.cc/10329)
+- [ ] [区别辨析equip、furnish、supply、provide与afford](https://www.tjxz.cc/10872)
+- [ ] [avoid](https://www.thesaurus.com/browse/avoid)
+avoid <-> approach, face. evade
+![](https://i.imgur.com/YnlHH1A.png)
+![](https://i.imgur.com/MQZZ3Uf.png)
+![](https://i.imgur.com/0H1NUd6.png)
+- [ ] [IELTS vocabulary : dive, dip, and plunge](https://www.youtube.com/watch?v=YsHo6xYmkgM)
+![](https://i.imgur.com/FUpajUc.jpg)
+
+### noun
+
+### topic
+- [ ] [needs](https://www.youtube.com/watch?v=XZpttZmAtpw)
+  - needs vs wants
+    - water: clean, have access to,available, cook with, clean
+    - shelter: weather is extreme,
+    - air lung breath , oxygen to function
+    - sleep : body repair itself , mind have a rest,mind stores memory
+### Phonics
+- [ ] [English Phonics - 'ai' Words with Example Sentences](https://www.youtube.com/watch?v=TUI48tfbcnI)
+
+### verbs
+- [ ] [[四级]英语核心分类词汇5000-动词篇](https://www.youtube.com/watch?v=8LzdJRJ_efA)
+### list
+- [ ] [Verbs That Start With C](https://hackmd.io/zQdONBdaTZq7vot2Fmlg-A)
+- [ ] [Verbs That Start With D](https://hackmd.io/wTJZam6bSOyhkFfj8twh2w)
+```
+描述describe 状态
+年轻时  dare to dream /desire一些好事情， 社会display一些好东西， Dash 急冲冲的做了选择
+知识消化 digest， 理解 comprehend，
+
+很有决心determine ， 保持低调， 避免被distinguish和被disturb，献身devote到工作，  把时间分成divide几份， 挣的工资也存deposit起来，dig/drill down计算机和数学知识， 做到技术总监，
+distribute工作给组内的人， 并且指导direct他们，
+  
+。。 depend。。。 。。 determine。。
+design and develop一些东西。
+被 骗deceive了，精神上抑郁depress。           
+dream decay了。
+健康被毁坏 damage /destroy， disable 残废了 还被骂你活该 deserve
+被打败defeat，
+被强烈要求demand ， 坚决否认deny ，防护自己defend，而不是承认错误admit，  结果就得离开depart， 托运deliver自己行李到老家
+
+
+不愿意投入， dip， 愿意投入 dive。all in 需要有人指导direct。
+
+contribute  - distribute
+
+辩论debate 装饰decorate 拒绝deline
+
+Dis开头的一对单词， discuss， dislike， dismiss开除， 溶解 dissolve， disapprove， discourage， discover， disclose
+```
+- [ ] [Verbs That Start With E ](https://www.easypacelearning.com/english-books/verbs-a-to-z-list-learning-english/447-e-verbs-list-learning-english-verbs-2)
+- [ ] [Positive verbs that start with E ](https://boompositive.com/blogs/positivethesaurus/positive-verbs-that-start-with-e)
+- [ ] [verbs end with k](https://www.wordmom.com/regular-verbs/that-end-with-k)
+### sector
+- [ ] [Learn 60 English Action Verbs In Under 10 Minutes! Acted Out For Easy Memorization!](https://www.youtube.com/watch?v=vA-uEPEHU_M)
+- [ ] [Learn 250+ Common Verbs in English in 25 Minutes](https://www.youtube.com/watch?v=VhvpOkEFFEk)
+- [ ] [50个最常见身体动作单词发音教学/从零开始学英语初级动词情景课 Nate-Onion English](https://www.youtube.com/watch?v=6jJVVEVLOa8)
+```
+nod if you understand
+shake your head if you don't understand
+don't pick your nose 挖鼻孔
+i need to blow my nose 擤鼻涕
+cough it up  咳嗽 kaf
+sneeze away from the food 打喷嚏
+sniff the air  闻空气
+plug your nose 塞住鼻子
+take a breath 吸一口气
+take a deep breath  深吸一口气
+hold your breath for five seconds 屏气5秒钟
+let's hold your breath for five seconds  
+open your mouth
+close your eyes
+stop staring at me 别盯着我
+don't blink 别眨眼
+she's holding a pen 拿着笔
+put out your hand 伸出手
+cross your legs 交叉腿
+cover your face 蒙住脸
+don't touch it 别碰
+try not to scratch 别挠
+talk to you later.
+i don't speak spanish
+sing a song
+hum it for me. 哼唱一下
+chew it slowly  嚼慢点
+you're sighing a lot 你一直在叹息
+i use it to pick my teeth 剔牙
+clap your hands  拍手  claw 爪子挠抓
+she slapped me 打脸 
+stop pinching me 掐
+punch him in the head 打
+don't pull so hard 
+somebody pushed me
+point to your eyes 指
+let's shake hands  
+wave at me 挥手
+stop tickling me 搔痒
+rub your eyes 揉
+squeeze the toothpaste 挤
+knock on the door 敲
+grab his arm 抓
+drop the food 掉
+bend down and pick it up 弯腰
+he's crawling in the grass  在草里爬
+climb the ladder  攀爬
+he tripped over something 绊倒
+he slipped on the floor 滑倒
+kick the ball
+jump into the water
+i run every day
+walk like this
+crouch down a little bit 蹲下点
+oh guys let's stretch our legs 伸展
+itch 痒
+```
+- [ ] [Emotions for Kids - Happiness, Sadness, Fear, Anger, Disgust and Surprise](https://www.youtube.com/watch?v=jetoWelJJJk)
+
+- [ ] [english vocabulary search result](https://www.youtube.com/results?search_query=english+vocabulary)
+
+
+- [ ] [经常和with搭配的动词有哪些](https://www.cpsenglish.com/question/5613)
+    - https://7esl.com/prepositions-after-verbs-with/
+```
+argue bother charge   saddle oblige worry
+agree equip favor/feed furnish help impress provide serve trust
+```
+![](https://i.imgur.com/72phK9A.png)
+![](https://i.imgur.com/IOQnXMM.png)
+![](https://i.imgur.com/nqGQ79M.png)
+* Two consective verbs
+* ![](https://i.imgur.com/reWFG6g.png)
+![](https://i.imgur.com/Dsl7e9X.png)
+![](https://i.imgur.com/RJ7U1kI.png)
+![](https://i.imgur.com/c4X4yRH.png)
+![](https://i.imgur.com/v0tmVZq.png)
+### verb combinations
+https://www.espressoenglish.net/5-types-of-english-verb-verb-combinations/
+![](https://i.imgur.com/KbXxJAG.png)
+![](https://i.imgur.com/ybQ7MlP.png)
+![](https://i.imgur.com/CJ41DBE.png)
+![](https://i.imgur.com/0JTHj2F.png)
+![](https://i.imgur.com/f14BEEo.png)
+
+- [ ] [英语学习 英语词汇立体记忆](https://www.youtube.com/watch?v=TSwjGUKIOSM&list=PL9DLN-zdvxeq9Trvd3pFvjLBFkN6ISAen&index=2)
+
+
+https://www.youtube.com/results?search_query=%E8%8B%B1%E8%AF%AD%E6%A0%B8%E5%BF%83%E8%AF%8D%E6%B1%87
+
+
+### recently
+- [ ] [Talking about Daily Routines](https://www.youtube.com/watch?v=JwGnCIsLOpU)
+- [ ] [Cooking Verbs](https://www.youtube.com/watch?v=oqfh5i5Zfcs)
+- [ ] [the more.. the more...](https://www.cpsenglish.com/question/25242)
+- [ ] [Feelings and emotions vocabulary](https://www.youtube.com/watch?v=7uY2HrQ9qQ8)
